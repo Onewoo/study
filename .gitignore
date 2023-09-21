@@ -42,4 +42,8 @@
 hs_err_pid*
 replay_pid*
 
+# directory
+/All-Projects.git
+/All-Users.git
+
 # End of https://www.toptal.com/developers/gitignore/api/git,java
